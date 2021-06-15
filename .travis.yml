@@ -1,6 +1,8 @@
 dist:
   - focal
   - bionic
+arch:
+  - arm64
   
 script:
   - echo "michaltestorg/test-org hello world"
