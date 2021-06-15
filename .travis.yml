@@ -1,0 +1,6 @@
+dist:
+  - focal
+  - bionic
+  
+script:
+  - echo "michaltestorg/test-org hello world"
